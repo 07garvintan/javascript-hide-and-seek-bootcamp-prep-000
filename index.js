@@ -1,1 +1,3 @@
-function ge
+function getFirstSelector(selector) {
+  document.querySelector(selector)
+}
